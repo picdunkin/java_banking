@@ -1,2 +1,2 @@
-# java_banking
+# Java Banking
 Java banking console app.
